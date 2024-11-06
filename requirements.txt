@@ -6,3 +6,4 @@ streamlit==1.39.0
 pandas==2.2.0
 numpy==1.23.5
 gdown==4.7.3
+scikit-learn==1.5.1  # Use a version compatible with your Python version
